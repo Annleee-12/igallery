@@ -43,9 +43,9 @@ photos.html
 </div>
 <script src="scripts.js"></script>
 <footer>
-Designed by G. Shawn Ronel(25005544)
+Designed by ANNLEE AGHAI DAVIDSON(25001177)
 </footer>
-</body>
+</body> 
 </html>
 scripts.js
 
